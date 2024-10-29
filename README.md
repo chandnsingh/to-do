@@ -3,7 +3,7 @@
 **ID** : CT6WTDS502. <br>
 **Domain** : FULL STACK WEB DEVELOPMENT. <br>
 **Duration** : SEPTEMBER 5th, 2024 to OCTOBER 20th, 2024. <br>
-**Mentor** :
+**Mentor** : Neela Santhosh Kumar
 
 
 ## Overview of the project
